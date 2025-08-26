@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- I am a biomedical engineering PhD student at Tulane University 
+- My hobbies include: reading (a lot)📘, thrifting and upcycling 🛍, painting 🎨, and working out 🏋️‍♀️
+- Fun Fact: I do pageants in the Louisiana festival circut👑
 <!--
 **Jennanecaise1/Jennanecaise1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
